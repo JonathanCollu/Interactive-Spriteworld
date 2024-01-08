@@ -8,25 +8,25 @@ The environment consists of a square arena with a black background and five obje
 
 In this task the agent has to reach the (only) sprite carachterized by the red color.
 
-<img src="figures/gfa.gif" width="800"/>
+<img src="figures/gfa.gif" width="400"/>
 
 ## Task 2 (Goal Finding Interactive)
 
 In this task the agent has to move the (only) sprite carachterized by the red color to the (only) sprite carachterized by the yellow color.
 
-<img src="figures/gfi.gif" width="800"/>
+<img src="figures/gfi.gif" width="400"/>
 
 ## Task 3 (Clustering By Shape)
 
 In this task the agent has group the sprites based on their shape. It is supposed to join the right group (based on its shape) in order to complete the task.
 
-<img src="figures/cis.gif" width="800"/>
+<img src="figures/cis.gif" width="400"/>
 
 ## Task 4 (Clustering By Color)
 
 In this task the agent has group the sprites based on their color. 
 
-<img src="figures/cic.gif" width="800"/>
+<img src="figures/cic.gif" width="400"/>
 
 ## How to use this repo
 In order to use this project it is essential to first clone the original spriteworld repository (https://github.com/google-deepmind/spriteworld). At this point, it is sufficient to merge the folders 'spriteworld' with that of te original repository and move the folder 'tasks' under the directory 'spriteworld/config' (in the original repo).
